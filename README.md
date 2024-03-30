@@ -9,7 +9,7 @@ In class, we covered the basics of neural networks, starting with their history 
 | Homework 3                            | 17 / 20  | 85%        |
 | Homework 4                            | 16.5 / 18| 91.67%     |
 | Homework 5                            | 24 / 30  | 80%        |
-| Homework 6                            | TBD |   --         |
+| Homework 6                            | 20 / 20  | 100%       |
 
 ## Final Project
 
